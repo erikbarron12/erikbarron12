@@ -85,4 +85,4 @@ statusFilterEl.addEventListener('change', () => {
 //evento cargar mas personajes 
 loadMoreButton.addEventListener('click', loadMoreCharacters);
 
-//GRACIAS POR SU ATENCION 
+//
